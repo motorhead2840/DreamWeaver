@@ -1,0 +1,6 @@
+{
+  "name": "DreamWeaver",
+  "description": "A luxury women's designer flagship store. Featuring virtual try-on and personalized styling advice with a 'feel sexy on the inside' aesthetic.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI Styling", "Virtual Try-On"]
+}
